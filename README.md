@@ -1,65 +1,77 @@
-<!-- HEADER -->
-<h1 align="center">✨ Salaam, I’m Hikma Abdulkadir  ✨</h1>
-<p align="center">Frontend Developer • React Enthusiast • Tailwind Lover • UI/UX Focused</p>
+<!-- ANIMATED HEADER WAVES -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90">
+</p>
+
+<!-- TITLE -->
+<h1 align="center">👋 Salaam, I'm <strong>Hikma Abdulkadir </strong></h1>
+<p align="center">Frontend Developer • React & Tailwind Specialist • UI/UX Focused</p>
 
 ---
 
-<!-- ABOUT -->
-## 🌸 About Me
-I’m a passionate **frontend developer** who enjoys building clean, modern, aesthetic, and user-friendly interfaces.  
-I specialize in **React, Tailwind CSS, JavaScript, and TypeScript**, and I’m currently expanding into backend development.
+<!-- INTRO -->
+## 👩‍💻 About Me  
+I’m a **frontend developer** passionate about building clean, modern, and user-centered web interfaces.  
+My strength lies in **React, Tailwind CSS, and modern UI engineering**  creating scalable and aesthetic frontends.
 
-- 🎨 Love crafting beautiful UI/UX  
-- ⚛️ Strong in React components, routing, hooks, and clean layouts  
-- 🪄 Tailwind CSS enthusiast (animations, grids, modern designs)  
-- 🚀 Always learning, building, and improving  
+- 🚀 Focused on professional frontend development  
+- 🎨 Strong experience with Tailwind, components, animations, and responsive design  
+- ⚛️ Building with React + Vite + TypeScript  
+- 📚 Passionate about clean code, maintainability, and UI consistency  
+- 🌱 Learning backend to become a full-stack developer (Node.js, Express, MongoDB)
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Frontend:**  
-React • Tailwind CSS • JavaScript (ES6+) • TypeScript • Vite • HTML • CSS  
+### **Frontend**
+React • Tailwind CSS • JavaScript (ES6+) • TypeScript • Vite • HTML • CSS 
 
-**Tools & Workflow:**  
+### **Tools & Workflow**
 Git • GitHub • VS Code • Figma • Netlify • Vercel  
 
-**Learning:**  
+### **Backend Learning**
 Node.js • Express • MongoDB  
 
 ---
 
 <!-- PROJECTS -->
-## 📌 Featured Projects
+## 🚀 Featured Projects  
 
-### 📰 **News Portal (React + Tailwind)**
-A modern news website with categories, clean UI, and responsive layout.  
-Perfect for showcasing real-world frontend architecture.
+### 📰 **News Portal (React + Tailwind)**  
+A professional, responsive news website with category filters, modern layout, and smooth UI.  
+**Tech:** React, Tailwind, API integration
 
-### 🤖 **React Chatbot**
-Interactive chatbot that tells jokes, solves math, rolls dice, and remembers your name.
+---
 
-### 🌙 **Islamic To-Do App**
-A minimal and peaceful productivity app with an Islamic aesthetic.
+### 🤖 **React Chatbot**  
+Smart chatbot that answers math questions, tells jokes, rolls dice, and remembers your name.  
+**Tech:** React, Vite, JavaScript
 
-### 📚 **Study Planner**
-Helps students plan tasks, track progress, and stay organized with a smooth UI.
+---
+
+### 🌙 **Islamic To-Do App**  
+Minimal, beautiful task management tool with a peaceful Islamic theme.  
+**Tech:** HTML, Tailwind, JavaScript
+
+---
+
+### 📚 **Study Planner**  
+Task planner for students with clean UI, task categories, and productivity features.  
+**Tech:** React, Tailwind  
 
 ---
 
 <!-- STATS -->
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hikmah04525&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hikmah04525&show_icons=true&theme=tokyonight&hide_border=true" height="160">
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikmah04525&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikmah04525&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </p>
 
-<!-- Contribution Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hikmah04525&theme=tokyonight&hide_border=true" height="170">
 </p>
@@ -67,9 +79,14 @@ Helps students plan tasks, track progress, and stay organized with a smooth UI.
 ---
 
 <!-- CONTACT -->
-## 🌐 Connect With Me
-- 📍 Addis Ababa  
-- 📩 hikushhikma@gmail.com  
-- 🔗 GitHub: https://github.com/Hikmah04525  
+## 🌐 Connect With Me  
+- 📍 Addis Ababa  | Adama
+- 📩 Email: **hikushhikma@gmail.com**  
+- 🔗 GitHub: **github.com/Hikmah04525**  
 
-<p align="center">✨ Thank you for visiting my profile  always building, always growing ✨</p>
+<p align="center">✨ Thanks for visiting my profile  Always building. Always improving. ✨</p>
+
+<!-- FOOTER WAVES -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90">
+</p>
