@@ -1,6 +1,7 @@
 <!-- ANIMATED HEADER WAVES -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90">
+  <img src="https://raw.githubusercontent.com/BarneyWH/BarneyWH/main/assets/wave-dark.svg" width="100%" height="90">
 </p>
 
 <!-- TITLE -->
