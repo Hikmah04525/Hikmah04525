@@ -1,7 +1,3 @@
-<!-- ANIMATED HEADER WAVES -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/wave.svg" width="100%" height="100">
-</p>
 
 <!-- TITLE -->
 <h1 align="center">👋 Salaam, I'm <strong>Hikma Abdulkadir </strong></h1>
@@ -65,12 +61,6 @@ Task planner for students with clean UI, task categories, and productivity featu
 
 <!-- STATS -->
 ## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hikmah04525&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikmah04525&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hikmah04525&theme=tokyonight&hide_border=true" height="170">
