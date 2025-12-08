@@ -76,7 +76,3 @@ Task planner for students with clean UI, task categories, and productivity featu
 
 <p align="center">✨ Thanks for visiting my profile  Always building. Always improving. ✨</p>
 
-<!-- FOOTER WAVES -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="90">
-</p>
