@@ -1,6 +1,6 @@
 
 <!-- TITLE -->
-<h1 align="center">👋 Salaam, I'm <strong>Hikma Abdulkadir </strong></h1>
+<h1 align="center">👋 Hello, I'm <strong>Hikma Abdulkadir </strong></h1>
 <p align="center">Frontend Developer • React & Tailwind Specialist • UI/UX Focused</p>
 
 ---
