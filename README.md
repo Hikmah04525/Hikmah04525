@@ -74,5 +74,5 @@ Task planner for students with clean UI, task categories, and productivity featu
 - 📩 Email: **hikushhikma@gmail.com**  
 - 🔗 GitHub: **github.com/Hikmah04525**  
 
-<p align="center">✨ Thanks for visiting my profile  Always building. Always improving. ✨</p>
+<p align="center">✨ Thanks for visiting my profile  Always learning , building and improving. ✨</p>
 
